@@ -59,5 +59,5 @@ A Data Analysis + NLP based web application that provides insights from WhatsApp
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/mnsankhat/WhatsApp-Chat-Analyzer
+git clone https://github.com/maheshsankhat/WhatsApp-Chat-Analyzer
 cd whatsapp-chat-analyzer
